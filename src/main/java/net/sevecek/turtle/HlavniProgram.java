@@ -60,11 +60,9 @@ public class HlavniProgram {
 
     //2.část//
     //nakresli8Uhelnik//
-
        zofka.setLocation(100,100);
 
         nakresli8Uhelnik(zofka);
-
     }
     private void nakresli8Uhelnik(Turtle zofka) {
         zofka.turnRight(45);
@@ -78,10 +76,6 @@ public class HlavniProgram {
 
     //nakresliKolecko//
        zofka.setLocation(250,100);
-
-
-        //nakresliKolecko//
-        zofka.setLocation(250,100);
 
         nakresliKolecko(zofka);
     }
