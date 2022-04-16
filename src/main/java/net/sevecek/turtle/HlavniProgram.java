@@ -176,7 +176,7 @@ public class HlavniProgram {
 
         pismenoA(zofka);
 
-        zofka.setLocation(600,100);
+        zofka.setLocation(650,100);
         zofka.turnRight(90);
 
 
