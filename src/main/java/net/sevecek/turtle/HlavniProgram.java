@@ -105,7 +105,7 @@ public class HlavniProgram {
         zofka.move(20);
         zofka.penUp();
         zofka.move(-20);
-       zofka.penDown();
+        zofka.penDown();
         zofka.turnLeft(90);
         zofka.move(20);
 
