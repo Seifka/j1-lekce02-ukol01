@@ -179,11 +179,6 @@ public class HlavniProgram {
         zofka.setLocation(650,100);
         zofka.turnRight(90);
 
-
-
-
-
-
     }
 
     private void pismenoT(Turtle zofka) {
